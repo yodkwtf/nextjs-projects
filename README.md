@@ -7,3 +7,4 @@ For more info regarding a specific project, navigate to that project's directory
 ## Easy navigation to all the projects:
 
 1. [TeamList Website](/01-teamlist-website)
+2. [WebDev Newz](/02-webdev-newz/)
